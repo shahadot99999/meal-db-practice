@@ -1,0 +1,35 @@
+.product {
+    margin-top: 30px;
+    border: 1px solid #95a0a7;
+    border-radius: 8px;
+    /* padding: 7px; */
+}
+
+.product-info {
+    margin: 0;
+}
+
+.product-name {
+    font-family: 'Lato';
+    font-style: normal;
+    font-size: 21px;
+    line-height: 25px;
+    margin-top: 7px;
+}
+
+.product img {
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+    margin: 8px;
+}
+
+.btn-cart {
+    width: 100%;
+    background-color: cornflowerblue;
+    border-radius: 0px 0px 8px 8px;
+}
+
+.btn-cart:hover {
+    background-color: orange;
+}
