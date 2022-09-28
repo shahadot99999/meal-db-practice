@@ -12,8 +12,7 @@ const Cart = ({ cart }) => {
         <div className='cart'>
             <h4>Order Summary</h4>
             <p>Selected Item: {cart.length}</p>
-
-            <p>Your meal item name:{name}</p>
+            <p> Your meal item name:{name}</p>
 
         </div>
     );
